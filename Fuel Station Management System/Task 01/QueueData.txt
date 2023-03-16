@@ -1,0 +1,8 @@
+-----LIYANAGE FUEL STATION - LOGS-----
+
+FUEL QUEUE 01 : [Thavindu, null, null, null, null, null]
+FUEL QUEUE 02 : [Amal, null, null, null, null, null]
+FUEL QUEUE 03 : [Brian, null, null, null, null, null]
+
+6570 LITRES OF FUEL REMAINING.
+Coded by: Thavindu Liyanage
